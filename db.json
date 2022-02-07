@@ -5,8 +5,8 @@
           "name": "Guichetier",
           "type": "Guichetier",
           "applications": ["KOTscan android", "KOTscan webb"],
-          "createdAt": "2022-08-13T07:45:00Z",
-          "updatedAt": "2022-09-22T07:45:00Z",
+          "createdAt": "2022-01-28T07:45:00Z",
+          "updatedAt": "2022-02-05T07:45:00Z",
           "updatedBy": {
             "ulid": "01EN0A87D1Y7W9H936589GM",
             "firstname": "Fanny",
@@ -18,8 +18,8 @@
           "name": "Livreur",
           "type": "Livreur",
           "applications": ["KOTscan android"],
-          "createdAt": "2022-08-13T07:45:00Z",
-          "updatedAt": "2022-09-10T07:45:00Z",
+          "createdAt": "2022-01-28T07:45:00Z",
+          "updatedAt": "2022-02-03T07:45:00Z",
           "updatedBy": {
             "ulid": "01EN0A87D1Y7W9H936589GM",
             "firstname": "Camille",
@@ -31,8 +31,8 @@
           "name": "Guichetier",
           "type": "Guichetier",
           "applications": ["KOTscan web"],
-          "createdAt": "2022-08-13T07:45:00Z",
-          "updatedAt": "2022-10-10T07:45:00Z",
+          "createdAt": "2022-01-28T07:45:00Z",
+          "updatedAt": "2022-02-01T07:45:00Z",
           "updatedBy": {
             "ulid": "01EN87D1Y7W9H9J3N589GM",
             "firstname": "Jean-Baptiste",
@@ -44,8 +44,8 @@
           "name": "Livreur",
           "type": "Livreur",
           "applications": ["KOTscan android", "KOTscan web"],
-          "createdAt": "2022-08-13T07:45:00Z",
-          "updatedAt": "2022-11-07T07:45:00Z",
+          "createdAt": "2022-01-28T07:45:00Z",
+          "updatedAt": "2022-01-30T07:45:00Z",
           "updatedBy": {
             "ulid": "string",
             "firstname": "Jean-Baptiste",
