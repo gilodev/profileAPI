@@ -4,7 +4,7 @@
           "ulid": "01F4DB7DX836VR4J9KMWRTEJ",
           "name": "Guichetier",
           "type": "Guichetier",
-          "applications": ["KOTscan android", "KOTscan webb"],
+          "applications": ["KOTscan android", "KOTscan web"],
           "createdAt": "2022-01-28T07:45:00Z",
           "updatedAt": "2022-02-05T07:45:00Z",
           "updatedBy": {
